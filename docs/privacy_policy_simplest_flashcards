@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - Simplest Flashcards</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 2rem;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        a {
+            color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Política de Privacidad de Simplest Flashcards</h1>
+    <p><strong>Fecha de entrada en vigencia:</strong> 1 de julio de 2025</p>
+    <p><strong>Email de contacto:</strong> darksertro@gmail.com</p>
+
+    <h2>1. Introducción</h2>
+    <p>Esta Política de Privacidad describe cómo la aplicación <strong>Simplest Flashcards</strong> maneja la información de los usuarios. Al utilizar la aplicación, aceptás los términos de esta política.</p>
+
+    <h2>2. Información que no recopilamos</h2>
+    <p>Simplest Flashcards <strong>no recopila, almacena ni solicita información personal</strong> de los usuarios. No requerimos inicio de sesión ni pedimos ningún dato identificable.</p>
+
+    <h2>3. Publicidad</h2>
+    <p>La app utiliza <strong>Google AdMob</strong> para mostrar anuncios. AdMob puede recopilar ciertos datos de uso para mostrar anuncios relevantes, especialmente si el usuario da su consentimiento (de acuerdo con el Reglamento General de Protección de Datos — GDPR — en Europa).</p>
+    <ul>
+        <li>Si el usuario se encuentra en una región que lo requiere, se mostrará un formulario de consentimiento al iniciar la app.</li>
+        <li>En cualquier momento, el usuario puede modificar sus preferencias desde la sección de <strong>Configuración</strong> de la app.</li>
+    </ul>
+    <p>Para más detalles sobre cómo Google maneja los datos, podés consultar su política:<br>
+        <a href="https://policies.google.com/privacy" target="_blank">https://policies.google.com/privacy</a>
+    </p>
+
+    <h2>4. Consentimiento</h2>
+    <p>Al utilizar la app, aceptás el uso de anuncios proporcionados por Google AdMob. En regiones donde se requiere consentimiento (como la Unión Europea), el usuario podrá optar por aceptar o rechazar anuncios personalizados.</p>
+
+    <h2>5. Cambios en esta política</h2>
+    <p>Nos reservamos el derecho de modificar esta Política de Privacidad en cualquier momento. Notificaremos los cambios importantes dentro de la aplicación.</p>
+
+    <h2>6. Contacto</h2>
+    <p>Si tenés preguntas sobre esta Política de Privacidad, podés contactarnos a:<br>
+    📧 <strong>darksertro@gmail.com</strong></p>
+</div>
+</body>
+</html>
